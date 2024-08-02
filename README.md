@@ -1,2 +1,2 @@
 # ResellNation
-resell nation website
+Stará webová stránka pre ResellNation.eu
